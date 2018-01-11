@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1500569992793,1500570020387,1500570052908,1500570109319,1500580798585,1500860991538,1501555841129,1508436002881,1508872067792,1512241789089</id>
+	<updated>2018-01-11T19:44:45Z</updated>
+	<author>
+		<name>Aaron Carlisle</name>
+		<email>carlisle.aaron00@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500569992793</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='from' value='bf-webcontent@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-webcontent'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500570020387</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='soc-2016-dev@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/soc-2016-dev'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500570052908</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='soc-2017-dev@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/soc-2017-dev'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500570109319</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-funboard@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-funboard'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500580798585</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-committers@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-committers'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1500860991538</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-cycles@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-cycles'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1501555841129</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-docboard@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-docboard'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1508436002881</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-viewport@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-viewport'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1508872067792</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='to' value='bf-interface@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists/bf-interface'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_group'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1512241789089</id>
+		<updated>2018-01-11T19:44:45Z</updated>
+		<content></content>
+		<apps:property name='from' value='mailman-owner@blender.org'/>
+		<apps:property name='label' value='Blender Foundation/Mailing Lists'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
